@@ -4,5 +4,5 @@
 
 ### Precisando melhorar seus resultados ela quer conseguir entender os principais motivos desses cancelamentos e quais as ações mais eficientes para reduzir esse número.
 
-# Exercício concluído link notebook Google Colab
-# https://colab.research.google.com/drive/1lTrD3CYDvGifgrNm47zzvvbHlBNiUrRa?usp=sharing
+# Exercício concluído. link notebook Google Colab
+### https://colab.research.google.com/drive/1lTrD3CYDvGifgrNm47zzvvbHlBNiUrRa?usp=sharing
